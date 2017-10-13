@@ -14,7 +14,7 @@ public class TeleopMode extends OpMode {
 
     DcMotor leftMotor;// Initialize variables to represent motors
     DcMotor rightMotor;
-    DcMotor liftMotor;
+    DcMotor liftMotor;//
 
     Servo rightServo;// Initialize variables to represent servos
     Servo leftServo;
